@@ -6,12 +6,6 @@ Silent Drop is an anonymous feedback platform built using Next.js. It allows use
 
 [View Silent Drop](https://silent-drop.vercel.app/)
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="/dashboard.png" alt="Dashboard" width="49%" />
-  <img src="/send-message.png" alt="Send Message" width="49%" />
-</div>
 
 ## 🛠 Tech Stack
 
@@ -221,8 +215,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Yash Jain**
 
-- GitHub: [@yashjain](https://github.com/yashjain)
-- LinkedIn: [Yash Jain](https://www.linkedin.com/in/yash-jain)
+- GitHub: [@yashjain](https://github.com/yashj-010)
 
 ## 🙏 Acknowledgments
 
