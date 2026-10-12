@@ -2,9 +2,9 @@
 
 Silent Drop is an anonymous feedback platform built using Next.js. It allows users to receive anonymous messages and provides AI-powered question recommendations powered by Google Gemini.
 
-## 🚀 Live Demo
+##  Live Demo
 
-[View Silent Drop](https://silent-drop.vercel.app/)
+[View Silent Drop]()
 
 
 ## 🛠 Tech Stack
@@ -17,20 +17,20 @@ Silent Drop is an anonymous feedback platform built using Next.js. It allows use
 - **Database Operations:** MongoDB Aggregation Pipeline
 - **Debouncing:** Custom debouncing for username availability checks
 
-## ✨ Key Features
+##  Key Features
 
-- 🔐 **Dual Authentication:** Google OAuth & custom credentials with email verification
-- 💬 **Anonymous Messaging:** Send and receive messages anonymously
-- 🤖 **AI-Powered Questions:** Get creative question suggestions from Google Gemini
-- 📧 **Email Verification:** Secure OTP-based verification using Resend
-- 🎨 **Modern UI:** Beautiful components from ShadCN UI and Aceternity UI
-- ⚡ **Real-time Streaming:** AI responses streamed in real-time using Vercel AI SDK v5
-- 🔍 **Username Validation:** Real-time username availability checking with debouncing
-- 📊 **MongoDB Aggregation:** Optimized database queries using aggregation pipeline
-- 🌓 **Responsive Design:** Fully responsive across all devices
-- 🎭 **Motion Animations:** Smooth animations with Framer Motion
+-  **Dual Authentication:** Google OAuth & custom credentials with email verification
+-  **Anonymous Messaging:** Send and receive messages anonymously
+-  **AI-Powered Questions:** Get creative question suggestions from Google Gemini
+-  **Email Verification:** Secure OTP-based verification using Resend
+-  **Modern UI:** Beautiful components from ShadCN UI and Aceternity UI
+-  **Real-time Streaming:** AI responses streamed in real-time using Vercel AI SDK v5
+-  **Username Validation:** Real-time username availability checking with debouncing
+-  **MongoDB Aggregation:** Optimized database queries using aggregation pipeline
+-  **Responsive Design:** Fully responsive across all devices
+-  **Motion Animations:** Smooth animations with Framer Motion
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 /silent-drop
@@ -63,7 +63,7 @@ Silent Drop is an anonymous feedback platform built using Next.js. It allows use
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yashjain/silent-drop.git
+git clone https://github.com/yashj-010/silent-drop.git
 cd silent-drop
 ```
 
@@ -119,14 +119,14 @@ npm run build
 npm start
 ```
 
-## 🚀 Deployment
+## Deployment
 
 ### **Vercel Deployment** (Recommended)
 
 1. Push your code to GitHub
 2. Connect repository to [Vercel](https://vercel.com)
 3. Configure environment variables in Vercel dashboard
-4. Deploy 🚀
+4. Deploy 
 
 The backend API routes are automatically handled by Vercel's serverless functions.
 
@@ -134,7 +134,7 @@ The backend API routes are automatically handled by Vercel's serverless function
 
 Make sure to add all environment variables from `.env.local` to your Vercel project settings.
 
-## 🎯 How It Works
+## How It Works
 
 ### Authentication Flow
 1. User signs up with email/username or Google OAuth
@@ -175,7 +175,7 @@ Make sure to add all environment variables from `.env.local` to your Vercel proj
 - Reduces unnecessary API calls
 - Better user experience
 
-## 📦 Dependencies
+## Dependencies
 
 ### Main Dependencies
 - `next`: ^15.1.2
@@ -197,7 +197,7 @@ Make sure to add all environment variables from `.env.local` to your Vercel proj
 - `clsx`: ^2.1.0
 - `tailwind-merge`: ^2.5.0
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -207,17 +207,15 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
+##  Author
 
 **Yash Jain**
 
 - GitHub: [@yashjain](https://github.com/yashj-010)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Next.js](https://nextjs.org/) - The React Framework
 - [Vercel](https://vercel.com/) - Deployment Platform
@@ -227,10 +225,10 @@ This project is open source and available under the [MIT License](LICENSE).
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Resend](https://resend.com/) - Email Service
 
-## 📧 Contact
+##  Contact
 
-For any queries or suggestions, feel free to reach out at [your-email@example.com](mailto:your-email@example.com)
+For any queries or suggestions, feel free to reach out at [yj99901@gmail.com](mailto:yj99901@gmail.com)
 
 ---
 
-⭐ If you like this project, please give it a star on GitHub!
+If you like this project, please give it a star on GitHub!
